@@ -8,7 +8,7 @@
     },
     {
         "service":"OneDrive",
-        "en_q":"​What happens to OneDrive if I change my username?,
+        "en_q":"What happens to OneDrive if I change my username?",
         "en_a":"We do not recommend that you change usernames as it will affect many of the features of OneDrive1 as well as applications, distribution of files/directories, etc. <br> You can read more about what will be affected when you change your username on the following page, <a href=\"https://docs.microsoft.com/en-us/OneDrive/upn-changes\"  target=\"_blank\" title=\"How UPN changes affect the OneDrive URL and OneDrive features\">How UPN changes affect the OneDrive URL and OneDrive features</a>.",
         "sv_q":"Vad händer med OneDrive om jag byter användarnamn?",
         "sv_a":"Vi rekommenderar inte att du byter användarnamn då det kommer påverka många av funktionerna i OneDrive samt applikationer, utdelningar av filer/kataloger mm. Du kan läsa lite mer om vad som kommer påverkas när du byter användarnamn på följande sida, <a href=\"https://docs.microsoft.com/en-us/OneDrive/upn-changes\"  target=\"_blank\" title=\"How UPN changes affect the OneDrive URL and OneDrive features\">How UPN changes affect the OneDrive URL and OneDrive features</a> (på engelska)."
