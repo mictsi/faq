@@ -8,7 +8,7 @@
     },
     {
         "service":"OneDrive",
-        "en_q":"​What happens to OneDrive if I change my username?",
+        "en_q":"​What happens to OneDrive if I change my username?,
         "en_a":"We do not recommend that you change usernames as it will affect many of the features of OneDrive1 as well as applications, distribution of files/directories, etc. <br> You can read more about what will be affected when you change your username on the following page, <a href=\"https://docs.microsoft.com/en-us/OneDrive/upn-changes\"  target=\"_blank\" title=\"How UPN changes affect the OneDrive URL and OneDrive features\">How UPN changes affect the OneDrive URL and OneDrive features</a>.",
         "sv_q":"Vad händer med OneDrive om jag byter användarnamn?",
         "sv_a":"Vi rekommenderar inte att du byter användarnamn då det kommer påverka många av funktionerna i OneDrive samt applikationer, utdelningar av filer/kataloger mm. Du kan läsa lite mer om vad som kommer påverkas när du byter användarnamn på följande sida, <a href=\"https://docs.microsoft.com/en-us/OneDrive/upn-changes\"  target=\"_blank\" title=\"How UPN changes affect the OneDrive URL and OneDrive features\">How UPN changes affect the OneDrive URL and OneDrive features</a> (på engelska)."
@@ -138,5 +138,18 @@
         "en_a": "For security reasons, the default setting is \"Can view\" when sharing information in OneDrive.We want users to make an active decision about what access an employee or anonymous person should have to the shared information. We also want to prevent unauthorized manipulation/deletion of information stored in OneDrive.</p>",
         "sv_q": "Varför är det så att när jag delar information i OneDrive så är standardrättigheterna \"Kan visa\" och inte \"Kan redigera\"?",
         "sv_a": "Av säkerhetsskäl så är standardinställningen \"Kan visa\" och inte \"Kan redigera\" när man delar information i OneDrive. Vi vill att användarna ska ta ett aktivt beslut om vilken åtkomst en medarbetare eller anonyma skall ha till den delade informationen. Vi vill också förhindra att obehöriga manipulerar/raderar av information som finns lagrat i OneDrive."
+    }    {
+        "service": "onedrive",
+        "en_q": "How do I log in to KTH OneDrive?",
+        "en_a": "You must log in as username@ug.kth.se and your KTH password.",
+        "sv_q": "Hur skall jag logga in i KTH OneDrive?",
+        "sv_a": "Du skall logga in som användarnamn@ug.kth.se och ditt KTH lösenord."
+    },
+    {
+        "service": "onedrive",
+        "en_q": "Where are the files stored?",
+        "en_a": "The files that are stored in Onedrive and all other Microsoft 365 services are stored on server within the EU. We cannot say exactly what country the fiels are store as they can be stored in multiple countries for redundancy . The countrie that are use for storing files for OneDrive/Microsoft 365 are Austria, Finland, France, Ireland and Holland.<br>You can read more about where the files/information is stored by following this link, <a href=\"https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide\">https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide.</a>",
+        "sv_q": "Vart lagras filerna i OneDrive?",
+        "sv_a": "Filerna som lagras i Onedrive, samt alla andra Microsoft 365 tjänster lagras på servrar inom EU. Vi kan inte säga exakt vilket land då informationen kan lagras i flera länder för redundans. Länderna som används för lagring av information av OneDrive/Microsoft 365 är Österrike, Finland, Frankrike, Irland och Holland.<br>Du kan läsa mer om vart informationen lagras på följande länk,<a href=\"https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide\">https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide</a>."
     }
 ]
