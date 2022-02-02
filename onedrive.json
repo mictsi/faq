@@ -151,5 +151,34 @@
         "en_a": "The files that are stored in Onedrive and all other Microsoft 365 services are stored on server within the EU. We cannot say exactly what country the fiels are store as they can be stored in multiple countries for redundancy . The countrie that are use for storing files for OneDrive/Microsoft 365 are Austria, Finland, France, Ireland and Holland.<br>You can read more about where the files/information is stored by following this link, <a href=\"https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide\">https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide.</a>",
         "sv_q": "Vart lagras filerna i OneDrive?",
         "sv_a": "Filerna som lagras i Onedrive, samt alla andra Microsoft 365 tjänster lagras på servrar inom EU. Vi kan inte säga exakt vilket land då informationen kan lagras i flera länder för redundans. Länderna som används för lagring av information av OneDrive/Microsoft 365 är Österrike, Finland, Frankrike, Irland och Holland.<br>Du kan läsa mer om vart informationen lagras på följande länk,<a href=\"https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide\">https://docs.microsoft.com/en-us/microsoft-365/enterprise/eu-data-storage-locations?view=o365-worldwide</a>."
+    },
+
+    {
+        "service": "onedrive",
+        "en_q": "Can multiple users write in the same office document at the same time?",
+        "en_a": "Yes, Office 2016 or later users can edit files at the same time. Users can also edit files simultaneously via Office online via a web browser.",
+        "sv_q": "Kan flera användare skriva i samma office dokument samtidigt?",
+        "sv_a": "Ja, användare av Office 2016 eller senare kan redigera filer samtidigt. Användare kan också redigera filer samtidig via Office online via en webbläsare."
+    },
+    {
+        "service": "onedrive",
+        "en_q": "Can I, as an employee, share documents with students?",
+        "en_a": "Yes, since both employees and students will have access to KTH OneDrive, it will be possible to share documents with each other.",
+        "sv_q": "Kan jag som anställd dela dokument med studenter?",
+        "sv_a": "Ja, eftersom både anställda och studenter kommer ha tillgång till KTH OneDrive kommer det vara möjligt att dela dokument med varandra."
+    },
+    {
+        "service": "onedrive",
+        "en_q": "Can I have different sync settings on different devices?",
+        "en_a": "Yes, the OneDrive client will allow you to have different settings on different computers / devices.",
+        "sv_q": "Kan jag ha olika synkinställningar på olika enheter?",
+        "sv_a": "Ja, OneDrive-klienten kommer ge dig möjligheten att kunna ha olika inställningar på olika datorer/enheter."
+    },
+    {
+        "service": "onedrive",
+        "en_q": "Will the OneDrive client automatically download all the files to my computer after i login?",
+        "en_a": "The default settings on the OneDrive client is that it only download files after you click on the file.<br>If you have an older OneDrive client please upgrade to the latest version of the client as that feature is supported in new clients and older client may download all the files to your computer.",
+        "sv_q": "Kommer OneDrive-klienten automatiskt att ladda ner alla filer till min dator efter att jag har loggat in?",
+        "sv_a": "Standardinställningarna på OneDrive-klienten är att den bara hämtar filer när du har klickat på filen.<br>Om du har en äldre OneDrive-klient uppgradera den till den senaste versionen av klienten eftersom den funktionen stöds i nya versionen av klienten och äldre versioner av klienten har inte den funtionen och kan hämta ned alla filer till datorn."
     }
 ]
