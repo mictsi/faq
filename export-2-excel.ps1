@@ -2,5 +2,5 @@
 
 # import-module importexcel
 
-$x = Get-Content -Raw .\onedrive.json | ConvertFrom-Json
-$x | Export-Excel -Path .\onedrive.xlsx -WorksheetName "FAQ" -FreezeTopRow
+$x = Get-Content -Raw .\faq.json | ConvertFrom-Json
+$x | Export-Excel -Path .\faq.xlsx -WorksheetName "FAQ" -FreezeTopRow
