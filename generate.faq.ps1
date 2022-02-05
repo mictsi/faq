@@ -3,7 +3,7 @@ function GenFAQ {
   [CmdletBinding()]
   param (
     [Parameter(Mandatory)]
-    [ValidateSet("onedrive", "azure", "box", "github-com-students", "github-com-projects")]
+    [ValidateSet("onedrive", "azure", "box", "github-com-students", "github-com-projects","sharepoint")]
     #,ErrorMessage="Value '{0}' is invalid. Try one of: '{1}'"
     $application
   )
