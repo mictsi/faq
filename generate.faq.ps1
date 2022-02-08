@@ -3,7 +3,7 @@ function GenFAQ {
   [CmdletBinding()]
   param (
     [Parameter(Mandatory)]
-    [ValidateSet("onedrive","OneDrive_Migration", "azure", "box", "github-com-students", "github-com-projects", "sharepoint")]
+    [ValidateSet("onedrive","OneDrive_Migration", "azure", "box", "github-com-students", "github-com-projects", "sharepoint","teams")]
     $application
 
   )
@@ -40,7 +40,7 @@ function GenFAQ {
   $json = Get-Content -Raw $jsonData | ConvertFrom-Json
 
   # Filter data
-  $jsonFiltered = $json | Where-Object { $_.service -eq $application }
+  $jsonFiltered = $json | Where-Object { $_.tag -match $application }
   
   
   # Backup data
@@ -100,7 +100,7 @@ function GenFAQ {
 
 
 
+$jsonData = "faq.json"
+$json = Get-Content -Raw $jsonData | ConvertFrom-Json
 
-
-
-
+$json | Sort-Object en_q | ogv
