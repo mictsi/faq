@@ -3,7 +3,7 @@ function GenFAQ {
   [CmdletBinding()]
   param (
     [Parameter(Mandatory)]
-    [ValidateSet("onedrive", "azure", "box", "github-com-students", "github-com-projects", "sharepoint")]
+    [ValidateSet("onedrive","OneDrive_Migration", "azure", "box", "github-com-students", "github-com-projects", "sharepoint")]
     $application
 
   )
