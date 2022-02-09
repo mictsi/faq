@@ -1,0 +1,29 @@
+[
+    {
+        "tag": "onedrive,OneDrive_Migration",
+        "en_q": "What happens to shared files / directories to external people?",
+        "en_a": "You will have to recreate these manually as we cannot recreate these for you for security reasons.",
+        "sv_q": "Vad händer med delade filer/kataloger till externa personer?",
+        "sv_a": "Du kommer vara tvungen att återskapa dessa manuellt då vi inte kan återskapa dessa åt dig av säkerhetsskäl."
+    },
+    {
+        "tag": "OneDrive_Migration",
+        "en_q": "Why do you not recreate external shares?",
+        "en_a": "<p>For the following reasons, we will not recreate external shares</p> <ol>  <li>We do not want to automatically share information with external parties as we do not know how sensitive the information is</li>  <li>We do not know who has the link today</li>  <li>We want to remove shares that are no longer relevant</li> </ol>",
+        "sv_q": "Varför återskapar ni inte externa utdelningar?",
+        "sv_a": "<p>Av följande skäl så kommer vi inte återskapa externa delningar</p> <ol>  <li>Vi vill inte automatiskt dela ut information med externa då vi inte känner till hur känslig informationen är</li>   <li>Vi vet inte vilka som har länken idag</li>   <li>Vi vill ta bort delningar som inte är aktuella</li> </ol>"
+    },    {
+        "tag": "OneDrive_Migration",
+        "en_q": "Will there be an alternative to Box FTP in OneDrive?",
+        "en_a": "We will not offer FTP onedrive capabilities as OneDrive does not have that option.",
+        "sv_q": "Kommer det finnas ett alternativ till Box FTP i OneDrive?",
+        "sv_a": "Vi kommer inte att erbjuda FTP möjligheter till OneDrive då det inte finns den möjligheten i OneDrive."
+    },
+    {
+        "tag": "OneDrive_Migration",
+        "en_q": "Are you going to copy my \"Box notes\" to OneDrive?",
+        "en_a": "We are sorry to say that we are not able to copy your \"Box Notes\" to OneDrive as \"Box Notes\" are proprietary to Box and cannot be copied to OneDrive. You will need to export your \"Box Notes\" in another format yourselves.",
+        "sv_q": "Kommer ni kopiera mina \"Box notes\" till OneDrive?",
+        "sv_a": "Tyvärr så kommer vi inte kunna kopiera dina \"Box Notes\" till OneDrive då dessa \"Box Notes\" är proprietära till Box och kan inte kopieras över. Du kommer att behöva exportera ut de till ett annat format manuellt."
+    }
+]
