@@ -316,9 +316,9 @@
     {
         "tag":"OneDrive,onedrive_migration,sharepoint",
         "en_q":"What kind of limitations are there in OneDrive? ",
-        "en_a":"OneDrive has limitations on what you can synchronize, name files/folders and other kind of limitations so it can synchronize content to different clients. You can read more regarding those limitations by following this link, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations in onedrive and sharepoint (In english)</a>",
+        "en_a":"OneDrive has limitations on what you can synchronize, name files/folders and other kind of limitations so it can synchronize content to different clients. You can read more regarding those limitations by following this link, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths\">Limitations in onedrive and sharepoint (In english)</a>",
         "sv_q":"Vilken typ av begränsningar finns det i OneDrive?",
-        "sv_a":"OneDrive har begränsningar för vad du kan synkronisera, namnfiler / mappar och andra typer av begränsningar så att det kan synkronisera innehåll till olika klienter. Du kan läsa mer om dessa begränsningar genom att följa den här länken, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations i onedrive och sharepoint (På engelska)</a>"
+        "sv_a":"OneDrive har begränsningar för vad du kan synkronisera, namnfiler / mappar och andra typer av begränsningar så att det kan synkronisera innehåll till olika klienter. Du kan läsa mer om dessa begränsningar genom att följa den här länken, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths\">Limitations i onedrive och sharepoint (På engelska)</a>"
     },
     {
         "tag": "onedrive,OneDrive_Migration,sharepoint",
@@ -333,20 +333,10 @@
         "en_a": "External guest accounts cannot sync content to their clients and are referred to the web interface to interact with the OneDrive service.",
         "sv_q": "Kan OneDrive gästkonton synkronisera innehåll?",
         "sv_a": "Externa gästkonton kan inte synkronisera ner innehåll till sina klienter utan hänvisas till webgränsnittet."
-    },
-    {
-        "tag": "OneDrive_Migration,onedrive",
-        "en_q": "Are deleted files (in the recycle bin) deleted automatically?",
-        "en_a": "Yes, Items in the recycle bin are deleted automatically after 93 days. This setting cannot be changed.",
-        "sv_q": "Raderas filer i papperskorgen automatiskt?",
-        "sv_a": "Ja, artiklar i papperskorgen tas bort automatiskt efter 93 dagar. Denna inställning får inte att ändra på."
-    },
-    {
-        "tag": "OneDrive_Migration,onedrive",
-        "en_q": "How do i restore a deleted file/folder from my OneDrive recycle bin?",
-        "en_a": "You can restore delete file/folder in OneDrive by following this guide, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive\">Restore deleted files or folders in OneDrive</a>.",
-        "sv_q": "Hur återställer jag en borttagen fil/mapp från min OneDrive-papperskorg?",
-        "sv_a": "Du kan återställa en borttagen fil/mapp i OneDrive genom att följa den här guiden, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive (på engelska)\">Restore deleted files or folders in OneDrive (på engelska)</a>."
     }
 ]
+
+
+
+
 

@@ -338,15 +338,9 @@
         "tag": "OneDrive_Migration,onedrive",
         "en_q": "Are deleted files (in the recycle bin) deleted automatically?",
         "en_a": "Yes, Items in the recycle bin are deleted automatically after 93 days. This setting cannot be changed.",
-        "sv_q": "Raderas filer i papperskorgen automatiskt?",
+        "sv_q": "Raderas filer i papperskorgen automatiskt??",
         "sv_a": "Ja, artiklar i papperskorgen tas bort automatiskt efter 93 dagar. Denna inställning får inte att ändra på."
-    },
-    {
-        "tag": "OneDrive_Migration,onedrive",
-        "en_q": "How do i restore a deleted file/folder from my OneDrive recycle bin?",
-        "en_a": "You can restore delete file/folder in OneDrive by following this guide, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive\">Restore deleted files or folders in OneDrive</a>.",
-        "sv_q": "Hur återställer jag en borttagen fil/mapp från min OneDrive-papperskorg?",
-        "sv_a": "Du kan återställa en borttagen fil/mapp i OneDrive genom att följa den här guiden, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive (på engelska)\">Restore deleted files or folders in OneDrive (på engelska)</a>."
     }
 ]
+
 
