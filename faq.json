@@ -347,6 +347,14 @@
         "en_a": "You can restore delete file/folder in OneDrive by following this guide, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive\">Restore deleted files or folders in OneDrive</a>.",
         "sv_q": "Hur återställer jag en borttagen fil/mapp från min OneDrive-papperskorg?",
         "sv_a": "Du kan återställa en borttagen fil/mapp i OneDrive genom att följa den här guiden, <a href=\"https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f\" title=\"Restore deleted files or folders in OneDrive (på engelska)\">Restore deleted files or folders in OneDrive (på engelska)</a>."
+    },
+    {
+        "tag": "github-local",
+        "en_q": "Can i change my github username in the gits/gitr system?",
+        "en_a": "We do not allow changes to the username in the local gits/gitr system to something else than you username.",
+        "sv_q": "Kan jag ändra mitt github användarnamn i gits / gitr-systemet?",
+        "sv_a": "Vi tillåter inte ändringar av användarnamnet i det lokala gits/ gitr-systemet till något annat än ditt användarnamn."
     }
+
 ]
 
