@@ -299,8 +299,7 @@
         "en_a": "<p>For the following reasons, we will not recreate external shares</p> <ol>  <li>We do not want to automatically share information with external parties as we do not know how sensitive the information is</li>  <li>We do not know who has the link today</li>  <li>We want to remove shares that are no longer relevant</li> </ol>",
         "sv_q": "Varför återskapar ni inte externa utdelningar?",
         "sv_a": "<p>Av följande skäl så kommer vi inte återskapa externa delningar</p> <ol>  <li>Vi vill inte automatiskt dela ut information med externa då vi inte känner till hur känslig informationen är</li>   <li>Vi vet inte vilka som har länken idag</li>   <li>Vi vill ta bort delningar som inte är aktuella</li> </ol>"
-    },
-    {
+    },    {
         "tag": "OneDrive_Migration",
         "en_q": "Will there be an alternative to Box FTP in OneDrive?",
         "en_a": "We will not offer FTP onedrive capabilities as OneDrive does not have that option.",
@@ -315,11 +314,11 @@
         "sv_a": "Tyvärr så kommer vi inte kunna kopiera dina \"Box Notes\" till OneDrive då dessa \"Box Notes\" är proprietära till Box och kan inte kopieras över. Du kommer att behöva exportera ut de till ett annat format manuellt."
     },
     {
-        "tag": "OneDrive,onedrive_migration,sharepoint",
-        "en_q": "What kind of limitations are there in OneDrive? ",
-        "en_a": "OneDrive has limitations on what you can synchronize, name files/folders and other kind of limitations so it can synchronize content to different clients. You can read more regarding those limitations by following this link, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations in onedrive and sharepoint (In english)</a>",
-        "sv_q": "Vilken typ av begränsningar finns det i OneDrive?",
-        "sv_a": "OneDrive har begränsningar för vad du kan synkronisera, namnfiler / mappar och andra typer av begränsningar så att det kan synkronisera innehåll till olika klienter. Du kan läsa mer om dessa begränsningar genom att följa den här länken, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations i onedrive och sharepoint (På engelska)</a>"
+        "tag":"OneDrive,onedrive_migration,sharepoint",
+        "en_q":"What kind of limitations are there in OneDrive? ",
+        "en_a":"OneDrive has limitations on what you can synchronize, name files/folders and other kind of limitations so it can synchronize content to different clients. You can read more regarding those limitations by following this link, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations in onedrive and sharepoint (In english)</a>",
+        "sv_q":"Vilken typ av begränsningar finns det i OneDrive?",
+        "sv_a":"OneDrive har begränsningar för vad du kan synkronisera, namnfiler / mappar och andra typer av begränsningar så att det kan synkronisera innehåll till olika klienter. Du kan läsa mer om dessa begränsningar genom att följa den här länken, <a href=\"https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa\">Limitations i onedrive och sharepoint (På engelska)</a>"
     },
     {
         "tag": "onedrive,OneDrive_Migration,sharepoint",
@@ -362,19 +361,7 @@
         "en_a": "We do not allow changes to the username in the local gits/gitr system to something else than you username.",
         "sv_q": "Kan jag ha flera mobila enheter som använder Microsoft Authenticator?",
         "sv_a": "Vi rekommenderar att enbart aktivera multifaktorautentisering på en enhet. Det är möjligt att aktivera på fler enheter medan du exempelvis ska byta enhet, det är dock en temporär lösning. Avsikten bör vara att enbart använda en enhet. "
-    },
-    {
-        "tag": "mfa-faq",
-        "en_q": "Why is multifactor authentication necessary?",
-        "en_a": "MFA makes your account safer. MFA means that you need to use an app called Microsoft Authenticator on your phone/tablet too when you log in at university services supporting multi-factor authentication. It will be harder for someone outside KTH to log in to your account and reach your information because they would need access to both your KTHaccount, password and your mobile unit.",
-        "sv_q": "Varför är multifaktorautentisering nödvändig?",
-        "sv_a": "MFA gör ditt konto säkrare. MFA innebär att du måste använda en app som heter Microsoft Authenticator på din telefon/surfplatta också när du loggar in på universitetstjänster som stöder multifaktorautentisering. Det blir svårare för någon utanför KTH att logga in på ditt konto och nå dina uppgifter eftersom de skulle behöva tillgång till både ditt KTH-konto, lösenord och din mobila enhet."
-    },
-        {
-        "tag": "mfa-faq",
-        "en_q": "?",
-        "en_a": "",
-        "sv_q": "?",
-        "sv_a": ""
-    },
+    }
+    
 ]
+

@@ -365,16 +365,16 @@
     },
     {
         "tag": "mfa-faq",
-        "en_q": "Why is multifactor authentication necessary?",
-        "en_a": "MFA makes your account safer. MFA means that you need to use an app called Microsoft Authenticator on your phone/tablet too when you log in at university services supporting multi-factor authentication. It will be harder for someone outside KTH to log in to your account and reach your information because they would need access to both your KTHaccount, password and your mobile unit.",
-        "sv_q": "Varför är multifaktorautentisering nödvändig?",
-        "sv_a": "MFA gör ditt konto säkrare. MFA innebär att du måste använda en app som heter Microsoft Authenticator på din telefon/surfplatta också när du loggar in på universitetstjänster som stöder multifaktorautentisering. Det blir svårare för någon utanför KTH att logga in på ditt konto och nå dina uppgifter eftersom de skulle behöva tillgång till både ditt KTH-konto, lösenord och din mobila enhet."
-    },
-        {
-        "tag": "mfa-faq",
         "en_q": "?",
         "en_a": "",
         "sv_q": "?",
         "sv_a": ""
     },
+    {
+        "tag": "mfa-faq",
+        "en_q": "?",
+        "en_a": "",
+        "sv_q": "?",
+        "sv_a": ""
+    }
 ]
