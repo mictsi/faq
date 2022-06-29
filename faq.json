@@ -359,9 +359,9 @@
     {
         "tag": "mfa-faq",
         "en_q": "Can I have multiple mobile devices using Microsoft Authenticator?",
-        "en_a": "We do not allow changes to the username in the local gits/gitr system to something else than you username.",
+        "en_a": "We recommend enabling multi-factor authentication only on one device. It is possible to activate on more devices while, for example, you are going to change devices, however, it is a temporary solution. The intention should be to use only one device.",
         "sv_q": "Kan jag ha flera mobila enheter som använder Microsoft Authenticator?",
-        "sv_a": "Vi rekommenderar att enbart aktivera multifaktorautentisering på en enhet. Det är möjligt att aktivera på fler enheter medan du exempelvis ska byta enhet, det är dock en temporär lösning. Avsikten bör vara att enbart använda en enhet. "
+        "sv_a": "Vi rekommenderar att enbart aktivera multifaktorautentisering på en enhet. Det är möjligt att aktivera på fler enheter medan du exempelvis ska byta enhet, det är dock en temporär lösning. Avsikten bör vara att enbart använda en enhet."
     },
     {
         "tag": "mfa-faq",
@@ -372,9 +372,16 @@
     },
         {
         "tag": "mfa-faq",
-        "en_q": "?",
-        "en_a": "",
-        "sv_q": "?",
-        "sv_a": ""
+        "en_q": "How do i add a new device as a MFA device?",
+        "en_a": "You can add a new MFA device by going to <a href=\"https://mysignins.microsoft.com/security-info\">Security info in Microsoft 365 portal</a> and add a sign-in method.",
+        "sv_q": "Hur lägger jag till en ny enhet som en MFA-enhet?",
+        "sv_a": "Du kan lägga till en ny MFA-enhet genom att gå till <a href=\"https://mysignins.microsoft.com/security-info\">Säkerhetsinformation i Microsoft 365 portalen</a> och lägga till en inloggningsmetod."
     },
+    {
+        "tag": "mfa-faq",
+        "en_q": "I have lost my phone or cannot use my existing MFA device?",
+        "en_a": "You will need to replace your phone or MFA device before you can use MFA again with your account. When you have the new device contact IT-Support to get help setting up the new device",
+        "sv_q": "Jag har tappat bort min telefon eller kan inte använda min befintliga MFA-enhet?",
+        "sv_a": "Du måste byta ut telefonen eller MFA-enheten innan du kan använda MFA igen med ditt konto. När du har den nya enheten kontaktar du IT-supporten för att få hjälp med att konfigurera den nya enheten"
+    }
 ]
